@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Testbench" />
+            <top_module name="glbl" />
+            <top_module name="ipif_pkg" />
+            <top_module name="lmb_bram_if_funcs" />
+            <top_module name="mypackage" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="23221599999fs"></ZoomStartTime>
+      <ZoomEndTime time="25421600000fs"></ZoomEndTime>
+      <Cursor1Time time="21902200000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="19" />
+   <wvobject db_ref_id="1" fp_name="/Testbench/Plate" type="array">
+      <obj_property name="ElementShortName">Plate[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Plate[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Ready" type="logic">
+      <obj_property name="ElementShortName">Ready</obj_property>
+      <obj_property name="ObjectShortName">Ready</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Sensor" type="logic">
+      <obj_property name="ElementShortName">Sensor</obj_property>
+      <obj_property name="ObjectShortName">Sensor</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Tempreture" type="logic">
+      <obj_property name="ElementShortName">Tempreture</obj_property>
+      <obj_property name="ObjectShortName">Tempreture</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/sys_diff_clock_clk_n" type="logic">
+      <obj_property name="ElementShortName">sys_diff_clock_clk_n</obj_property>
+      <obj_property name="ObjectShortName">sys_diff_clock_clk_n</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/sys_diff_clock_clk_p" type="logic">
+      <obj_property name="ElementShortName">sys_diff_clock_clk_p</obj_property>
+      <obj_property name="ObjectShortName">sys_diff_clock_clk_p</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/MyReset" type="logic">
+      <obj_property name="ElementShortName">MyReset</obj_property>
+      <obj_property name="ObjectShortName">MyReset</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Main/design_1_i/FinalIP_0/U0/FinalIP_v1_0_S00_AXI_inst/slv_reg0" type="array">
+      <obj_property name="ElementShortName">slv_reg0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg0[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Main/design_1_i/FinalIP_0/U0/FinalIP_v1_0_S00_AXI_inst/slv_reg2" type="array">
+      <obj_property name="ElementShortName">slv_reg2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg2[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Main/design_1_i/FinalIP_0/U0/FinalIP_v1_0_S00_AXI_inst/slv_reg4" type="array">
+      <obj_property name="ElementShortName">slv_reg4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg4[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Main/design_1_i/FinalIP_0/U0/FinalIP_v1_0_S00_AXI_inst/M1/Insertion_Command" type="array">
+      <obj_property name="ElementShortName">Insertion_Command[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Insertion_Command[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Main/design_1_i/FinalIP_0/U0/FinalIP_v1_0_S00_AXI_inst/M2/Command" type="array">
+      <obj_property name="ElementShortName">Command[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Command[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Main/design_1_i/FinalIP_0/U0/FinalIP_v1_0_S00_AXI_inst/M3/Commands" type="array">
+      <obj_property name="ElementShortName">Commands[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Commands[31:0]</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Main/design_1_i/FinalIP_0/U0/FinalIP_v1_0_S00_AXI_inst/M1/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Main/design_1_i/FinalIP_0/U0/FinalIP_v1_0_S00_AXI_inst/M1/CURS" type="other">
+      <obj_property name="ElementShortName">CURS</obj_property>
+      <obj_property name="ObjectShortName">CURS</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Main/design_1_i/FinalIP_0/U0/FinalIP_v1_0_S00_AXI_inst/M1/NEXTS" type="other">
+      <obj_property name="ElementShortName">NEXTS</obj_property>
+      <obj_property name="ObjectShortName">NEXTS</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Main/design_1_i/FinalIP_0/U0/FinalIP_v1_0_S00_AXI_inst/M1/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="/Testbench/Main/design_1_i/FinalIP_0/U0/FinalIP_v1_0_S00_AXI_inst/M1/arr" type="array">
+      <obj_property name="ElementShortName">arr[0:99]</obj_property>
+      <obj_property name="ObjectShortName">arr[0:99]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
